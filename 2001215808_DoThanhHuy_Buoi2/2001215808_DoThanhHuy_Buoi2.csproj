@@ -46,6 +46,7 @@
     <Compile Include="BaiMau.cs" />
     <Compile Include="BaiTapOLop.cs" />
     <Compile Include="btvn.cs" />
+    <Compile Include="btvn2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
